@@ -1,0 +1,18 @@
+{
+  "name": "parse-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "parse": "index.js"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "node test"
+  },
+  "author": "josh kennedy",
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^1.6.0"
+  }
+}
